@@ -1,7 +1,7 @@
 ## 4CODE NATION
 
 <div align="center">
-    <img src="https://github.com/4codenation/4codenation.png" width="100%" />
+    <img src="https://github.com/4codenation.jpg" width="100%" />
     <h2 align="center">
         <b>
             <i>
